@@ -56,5 +56,3 @@ Follow this link to view and use the live project: [PowerBi Publish](https://app
 
 ---
 
-> **Note**: This dashboard is built on sample/representative data. Ensure patient privacy and compliance if adapted for real-world datasets.
-
