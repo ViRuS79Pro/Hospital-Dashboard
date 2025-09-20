@@ -7,11 +7,11 @@ This Power BI project visualizes key operational, clinical, and financial metric
 
 - **Total Pages**: 6(including the front page)
 - **Pages Included**:
-  - [Overview](https://github.com/sibashish9040/Hospital-Dashboard/blob/main/docs/overview_page.png)
-  - [Patient Insights](https://github.com/sibashish9040/Hospital-Dashboard/blob/main/docs/patinet_page.png)
-  - [Doctor Informations](https://github.com/sibashish9040/Hospital-Dashboard/blob/main/docs/Doctor_page.png)
-  - [Hospital Performance](https://github.com/sibashish9040/Hospital-Dashboard/blob/main/docs/Hospital_page.png)
-  - [Financial Analysis](https://github.com/sibashish9040/Hospital-Dashboard/blob/main/docs/Finance_page.png)
+  - [Overview](https://github.com/ViRuS79Pro/Hospital-Dashboard/blob/main/docs/overview_page.png)
+  - [Patient Insights](https://github.com/ViRuS79Pro/Hospital-Dashboard/blob/main/docs/patinet_page.png)
+  - [Doctor Informations](https://github.com/ViRuS79Pro/Hospital-Dashboard/blob/main/docs/Doctor_page.png)
+  - [Hospital Performance](https://github.com/ViRuS79Pro/Hospital-Dashboard/blob/main/docs/Hospital_page.png)
+  - [Financial Analysis](https://github.com/ViRuS79Pro/Hospital-Dashboard/blob/main/docs/Finance_page.png)
 
 ## ✅ Features
 
