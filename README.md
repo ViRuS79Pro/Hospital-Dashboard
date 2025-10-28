@@ -1,7 +1,7 @@
 # 🏥 Hospital Analytics Dashboard
 
 This Power BI project visualizes key operational, clinical, and financial metrics of a hospital to assist in decision-making and performance tracking.
-![frontpage](https://github.com/sibashish9040/Hospital-Dashboard/blob/main/docs/Home_page.png)
+![frontpage](https://github.com/ViRuS79Pro/Hospital-Dashboard/blob/main/docs/Home_page.png)
 
 ## 📊 Dashboard Highlights
 
